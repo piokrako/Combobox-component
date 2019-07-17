@@ -1,5 +1,10 @@
 # Combobox component
-Pure JS/HTML/CSS combobox component with dummy data.
+Custom combobox/select component.
+
+## Used technologies
+- JavaScript
+- HTML
+- SCSS
 
 Visually apllealing, responsive.
 
